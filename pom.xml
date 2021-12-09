@@ -14,7 +14,7 @@
 
 		<solr.version>5.2.0</solr.version>
 		<ojdbc6.version>11.2.0.3</ojdbc6.version>
-		<jackson.version>2.7.4</jackson.version>
+		<jackson.version>2.9.10.8</jackson.version>
 		<junit.version>4.12</junit.version>
 		<slf4j.version>1.7.21</slf4j.version>
 		<maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
